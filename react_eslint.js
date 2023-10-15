@@ -34,7 +34,7 @@ module.exports = {
       'error',
       2,
       { SwitchCase: 1 }
-    ],
+    ], // Tabs: indent: ["error", "tab"],
     quotes: [
       'error',
       'single'
