@@ -59,6 +59,7 @@ module.exports = {
     ],
     'func-style': ['error', 'declaration', { 'allowArrowFunctions': true }],
     'arrow-spacing': ['error', { 'before': true, 'after': true }],
-    'prefer-const': 'error'
+    'prefer-const': 'error',
+    'no-console': 'error',
   }
 }
