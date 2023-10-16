@@ -39,6 +39,7 @@ module.exports = {
 		"func-style": ["error", "declaration", { allowArrowFunctions: true }],
 		"arrow-spacing": ["error", { before: true, after: true }],
 		"prefer-const": "error",
+		"no-console": "error",
 		"@typescript-eslint/no-unused-vars": [
 			"warn", // or "error"
 			{
